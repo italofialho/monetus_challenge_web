@@ -1,0 +1,11 @@
+body {
+    font-family: roboto,-apple-system,BlinkMacSystemFont,segoe ui,Roboto,helvetica neue,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.71429;
+    font-weight: 300;
+    color: #29293a;
+    letter-spacing: .05em;
+    background-color: #f3f3f9;
+    -webkit-text-size-adjust: none;
+    -webkit-font-smoothing: subpixel-antialiased;
+}

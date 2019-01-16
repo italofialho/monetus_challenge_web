@@ -1,0 +1,18 @@
+.custom-navbar {
+    background-color: #0047bb;
+    color: #fff;
+    height: 80px;
+    width: 100%;
+    -webkit-transition: background-color 200ms ease-in-out;
+    transition: background-color 200ms ease-in-out;
+}
+
+.input-search {
+    padding: 14px 40px;
+    font-size: 16px;
+    line-height: 1.25;
+    border: 0 solid;
+    border-radius: 40px;
+    height: 48px;
+    box-shadow: 0 3px 21px 4px rgba(41, 41, 58, 0.2);
+}
